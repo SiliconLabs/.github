@@ -11,4 +11,4 @@
 
 ### My git clone stopped working with an LFS error. What could be the cause?
 
-On September 30th, 2023, the git LFS server will enable a bandwidth quota based on your IP address. Go [here](https://github.com/SiliconLabs/.github/blob/main/README.md) for more information on how to resolve this issue.
+On September 30th, 2023, the git LFS server will enable a bandwidth quota based on your IP address. Go [here](https://github.com/SiliconLabs/.github) for more information on how to resolve this issue.
