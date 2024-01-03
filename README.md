@@ -2,7 +2,7 @@
 
 ### My git clone stopped working with an LFS error. What could be the cause?
 
-On December 13th, 2023, the git LFS server changed and enabled a bandwidth quota based on your IP address.
+On December 13th, 2023, the Gecko SDK git LFS server changed and enabled a bandwidth quota based on your IP address.
 
 - For existing clones, run the ```git reset –hard origin/<branch>``` command to update the LFS server. Alternatively, you can also use ```git config lfs.url = https://artifacts.silabs.net/artifactory/api/lfs/gsdk```. New clones will not have this issue since the LFS server will automatically be set correctly.
 - Each unique IPs daily bandwidth usage will be tracked and capped at 30 GB per 24-hour period. When the quota is hit, the Git LFS server will throw a HTTP error with status 509 Bandwidth limit exceeded.
