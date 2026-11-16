@@ -11,7 +11,7 @@
 
 ### Migrating Public Repos from SiliconLabs to SiliconLabsSoftware
 
-We are migrating our public repos from this organization to ([SiliconLabsSoftware](https://github.com/siliconlabssoftware)) with a target completion in January 2027. All existing clones and links should be preserved through this process, but please contact us in our ([Community](https://community.silabs.com/)) if there are any issues during the migration process.
+We are migrating our public repos from this organization to [SiliconLabsSoftware](https://github.com/siliconlabssoftware) with a target completion in January 2027. All existing clones and links should be preserved through this process, but please contact us in our [Community](https://community.silabs.com/) if there are any issues during the migration process.
 
 ### New Simplicity SDK and updated GSDK
 
