@@ -9,6 +9,10 @@
 
 ## News
 
+### Migrating Public Repos from SiliconLabs to SiliconLabsSoftware
+
+We are migrating our public repos from this organization to ([SiliconLabsSoftware](https://github.com/siliconlabssoftware)) with a target completion in January 2027. All existing clones and links should be preserved through this process, but please contact us in our ([Community](https://community.silabs.com/)) if there are any issues during the migration process.
+
 ### New Simplicity SDK and updated GSDK
 
 We've released a new Simplicity SDK ([simplicity_sdk](https://github.com/SiliconLabs/simplicity_sdk); please note the new repository) focused on our Series 2 and our upcoming Series 3 products. The GSDK ([gecko_sdk](https://github.com/SiliconLabs/gecko_sdk)) continues to be available and provides long-term support for our Series 0 and Series 1 devices. For more information, visit our [SDK Release Notes](https://www.silabs.com/developers/software-development-kit-release-notes) page.
